@@ -26,11 +26,32 @@
     </nav>
 
     <!-- Main Content -->
-
+    <div class="container mt-5 pt-5">
     <!-- Image -->
         
     <!-- User Registration Form -->
-    
+    <h2 class="text-center text-primary mt-5">Registration Form</h2>
+        <form class="border p-4 shadow-sm bg-light" class="was-validated">
+            <div class="row">
+                <div class="col">
+                    <input type="text" class="form-control mb-3" id="username" placeholder="First Name" required>
+                </div>
+                <div class="col">
+                    <input type="text" class="form-control mb-3" placeholder="Last Name" required>
+                </div>
+            </div>
+            <input type="email" class="form-control mb-3" placeholder="Email Address" required>
+            <input type="password" class="form-control mb-3" placeholder="Password" required>
+            <div class="checkbox mb-3">
+                <input class="checkbox-input" type="checkbox" id="checkbox" required>
+                <label class="checkbox-label" for="checkbox">
+                    I Agree to the Terms.
+                </label>
+            </div>
+            <button class="btn btn-success">Add User</button>
+        </form>
+
+
     <!-- User Table -->
 
 
