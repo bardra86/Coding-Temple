@@ -1,13 +1,11 @@
-Nav bar set up
+Knowledge Check Bootstrap Basics
 
-Registration form with first and last nam, email and password with validation and check box to accept terms
+This is a knowledge check for Module 5.
+Bootstrap utilities were used to create a form, table image and make the webpage responsive.
 
-submit button
+Navigation bar was created with a collapsable menu on small screens
 
-Nav bar includes hamburger menu for small screens and links to home about and contact sections.
+The form was created with required fields using validation classes and a check box
 
-Table hardcoded with user data with striped and hoverable rows
+The table was hard coded to simulate submissins with striped and hoverable rows
 
-Responsive image and circular image added
-
-Added 2 buttons with utility classes to hide one on small screens
