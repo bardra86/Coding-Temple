@@ -9,3 +9,6 @@ The form was created with required fields using validation classes and a check b
 
 The table was hard coded to simulate submissins with striped and hoverable rows
 
+Button added that hides on small screen was added
+
+Image added with circular image centered below it
